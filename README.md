@@ -1,5 +1,5 @@
-# Lienzo de un mapa
-Código comentado para realizar un lienzo de mapa con Leaflet.
+# Material didáctico "Generación de un mapa a través de la librería Leaflet".
+Este código respresenta una serie de pasos para que el estudiante pueda realizar un lienzo del mapa a partir de HTML. Cabe mencionar que es la primera parte del material didáctico.
 
 # Crear Lienzo del Mapa
 ## Con las librerías previamente cargadas como lo vimos en el video correspondiente.
