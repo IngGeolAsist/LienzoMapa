@@ -32,7 +32,7 @@ En ella declararemos el estilo del “lienzo del mapa”, utilizamos un selector
 Las propiedades Height y width: serán el ancho y el alto que ocupara el lienzo del mapa. El valor que toma puede estar expresado en px o porcentaje. En este caso el 100% indica que el lienzo del mapa ocupará toda la pantalla.
 La propiedad border, agrega un marco alrededor del lienzo del mapa, el valor solid indica que se visualizará un color solido sin transparencias, el valor 2px indica el grosor del marco y el valor black es el color del marco.
 
-## Cerramoss la etiqueta head, para iniciar a escribir el cuerpo de la pagina, para eso abrimos la etiqueta body, y acontinuacion usamos la etiqueta <div > para declarar que ahí se alojara nuestro mapa utilizando la instrucción “id”cerramos la etiqueta div.
+## Cerramos la etiqueta head, para iniciar a escribir el cuerpo de la pagina, para eso abrimos la etiqueta body, y acontinuacion usamos la etiqueta <div > para declarar que ahí se alojara nuestro mapa utilizando la instrucción “id”cerramos la etiqueta div.
 
 
 ``` html
